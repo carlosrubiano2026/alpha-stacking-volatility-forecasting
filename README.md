@@ -1,5 +1,11 @@
 ## Alpha Signal Stack with Volatility Forecasting
+## Key Features
 
+- Alpha stacking with multiple expert models
+- Walk-forward validation framework
+- Meta-label gating based on confidence thresholds
+- Volatility forecasting and risk scaling
+- Deployment-style signal construction
 This project develops a stacked machine learning framework for crypto market signal generation using 4-hour market data.
 
 The system combines alpha prediction, walk-forward validation, meta-label gating, volatility forecasting, and risk-scaled position sizing into a deployment-style signal artifact.
