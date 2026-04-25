@@ -1,4 +1,10 @@
 ## Alpha Signal Stack with Volatility Forecasting
+## Author
+
+Carlos Arturo Rubiano Passos  
+Quantitative Economist | Econometrics, Machine Learning & Macro-Financial Modeling  
+GitHub: https://github.com/carlosrubiano2026  
+LinkedIn: https://www.linkedin.com/in/TU-LINK
 ## Key Features
 
 - Alpha stacking with multiple expert models
